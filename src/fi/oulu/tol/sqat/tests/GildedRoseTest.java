@@ -2,7 +2,7 @@ package fi.oulu.tol.sqat.tests;
 
 import static org.junit.Assert.*;
 
-import java.awt.List;
+import java.util.List;
 import java.lang.reflect.ParameterizedType;
 import java.util.Arrays;
 
